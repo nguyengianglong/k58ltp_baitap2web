@@ -78,7 +78,8 @@ css:
 
  Kết quả giao diện:
 
- ![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/61b3c3f8-bcad-4907-be69-ac7ea018dbb9" />
+
 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6ca6ff3-2221-4b95-935b-7906b5c05bb0" />
