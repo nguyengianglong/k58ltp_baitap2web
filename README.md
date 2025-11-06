@@ -50,7 +50,7 @@ Cài đặt nodejs, nssm.exe, tạo file run nodejs cmd
 <img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/f6090c80-4618-4a8a-b2e4-c0d0a47c1714" />
 
 4, cài CSDL SQL
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8d7d438a-36b9-4a12-b17b-f4a2a99d1707" />
 
 
 5, cài đặt api nodered
@@ -78,7 +78,8 @@ css:
 
  Kết quả giao diện:
 
- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bab936f3-97c5-4ecd-8a11-a2335144a72b" />
+ ![Uploading image.png…]()
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6ca6ff3-2221-4b95-935b-7906b5c05bb0" />
 
